@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bonsai/static/css/main.416e5146.chunk.css",
+    "main.js": "/bonsai/static/js/main.de21bd77.chunk.js",
+    "main.js.map": "/bonsai/static/js/main.de21bd77.chunk.js.map",
+    "runtime-main.js": "/bonsai/static/js/runtime-main.882353db.js",
+    "runtime-main.js.map": "/bonsai/static/js/runtime-main.882353db.js.map",
+    "static/js/2.887b8744.chunk.js": "/bonsai/static/js/2.887b8744.chunk.js",
+    "static/js/2.887b8744.chunk.js.map": "/bonsai/static/js/2.887b8744.chunk.js.map",
+    "index.html": "/bonsai/index.html",
+    "static/css/main.416e5146.chunk.css.map": "/bonsai/static/css/main.416e5146.chunk.css.map",
+    "static/js/2.887b8744.chunk.js.LICENSE.txt": "/bonsai/static/js/2.887b8744.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.882353db.js",
+    "static/js/2.887b8744.chunk.js",
+    "static/css/main.416e5146.chunk.css",
+    "static/js/main.de21bd77.chunk.js"
+  ]
+}
